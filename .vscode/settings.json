@@ -1,0 +1,14 @@
+{
+    "sqltools.connections": [
+        {
+            "ssh": "Disabled",
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 5432,
+            "driver": "PostgreSQL",
+            "name": "dev_enviroment",
+            "database": "bd_projeto_bd2",
+            "username": "dev_projeto_bd2"
+        }
+    ]
+}
